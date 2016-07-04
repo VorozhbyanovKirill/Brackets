@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BRACKETS</string>
+
+    <!-- START ACTIVITY MAIN -->
+    <string name="btn_check">CHECK</string>
+    <!-- END ACTIVITY MAIN -->
+
+    <!-- START ACTION MENU -->
+    <string name="info">INFO</string>
+    <!-- END ACTION MENU -->
+
+    <!-- START DIALOG INFO -->
+    <string name="title_dialog_info">INFORMATION</string>
+    <string name="text_dialog_info">BRACKETS VERSION: 1.0\n\nABOUT PROGRAMM\nThe program for analysis bracketed algebraic expression for a given dictionary.\n\nDATE: 26.06.2016\nAUTHOR: Kirill Vorozhbyanov\nE-MAIL: VorozhbyanovKirill@gmail.com</string>
+    <string name="btn_ok">OK</string>
+    <!-- END DIALOG INFO -->
+</resources>
