@@ -8,7 +8,7 @@ Created ergonomic graphical interface, where the user can enter data in the appr
 
 ## LAUNCH APPLICATION
 
-* Copy the binary application file (*.apk) on the Android device;
+* Copy the binary application file (* .apk) from the folder "bin" in your Android device;
 * Open Explorer on a mobile device and choose the file you copied earlier;
 * Install the application following the instructions on your device screen.
 
